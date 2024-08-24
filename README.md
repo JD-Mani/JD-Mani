@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JD-Mani
-- 👀 I’m interested in web developer and frontend developer
-- 🌱 I’m currently learning Html, Css, Javascript, React, MySQL
-- 💞️ I’m additional learning the fundamentals of  Java, Python, Artificial Intelligence, Full Stack Development 
-- 👀 I’m looking to collaborate on frontend developers and web developers
+- 👀 I’m interested in web developer, frontend developer, MERN Stack Developer
+- 🌱 I’m currently learning Html, Css, Javascript, Node.JS, MySQL, MongoDB, Express.JS, NPM, Postman API
+- 💞️ I’m additional learning the fundamentals of  Python, Artificial Intelligence, Full Stack Development 
+- 👀 I’m looking to collaborate on frontend developers, web developers and MERN Stack Developers
 - 📫 How to reach me @manicsdeveloper@gmail.com and manics2468@gmail.com
 
 <!---
